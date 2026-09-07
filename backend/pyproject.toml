@@ -7,6 +7,7 @@ dependencies = [
     "fastapi>=0.110.0",
     "uvicorn[standard]>=0.28.0",
     "sqlalchemy>=2.0.28",
+    "aiosqlite>=0.20.0",
     "asyncpg>=0.29.0",
     "psycopg2-binary>=2.9.9",
     "alembic>=1.13.1",
@@ -21,7 +22,6 @@ dependencies = [
     "numpy>=1.26.4",
     "structlog>=24.1.0",
 ]
-
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"

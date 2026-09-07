@@ -2,7 +2,6 @@
 name = "smart-event-system-backend"
 version = "0.1.0"
 description = "Agentic AI Smart Event Management System Backend"
-readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "fastapi>=0.110.0",

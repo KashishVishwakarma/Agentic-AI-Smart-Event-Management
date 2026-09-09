@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files (Python internals)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Environment variables & secrets (never upload your API keys!)
+.env
+
+# Testing & caches
+.pytest_cache/
+*.db
+chroma_db/
+
+# OS generated files
+.DS_Store
+Thumbs.db

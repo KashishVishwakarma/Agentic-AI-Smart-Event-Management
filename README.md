@@ -77,3 +77,5 @@ smart-event-management-backend/
         ├── registrations.py
         ├── chat.py
         └── observability.py
+---
+Deploy on Render ->https://agentic-ai-smart-event-management-6.onrender.com/docs

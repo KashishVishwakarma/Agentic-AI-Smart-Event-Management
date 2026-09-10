@@ -282,4 +282,5 @@ pytest -v
 ### Docker Deployment
 ```bash
 docker build -t smart-event-backend .
+docker run -p 8000:8000 smart-event-backend
 Deploy on Render ->https://agentic-ai-smart-event-management-6.onrender.com/docs

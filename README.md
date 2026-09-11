@@ -287,4 +287,6 @@ docker run -p 8000:8000 smart-event-backend
 ```
 **Deploy on Render**
 Frontend -> https://frontend-g3kvpxebe-kashish-vishwakarma1.vercel.app/
+
+
 Backend -> https://agentic-ai-smart-event-management-6.onrender.com/docs
